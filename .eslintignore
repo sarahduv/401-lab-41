@@ -6,3 +6,4 @@ node_modules/**
 **/middleware.test.js
 **/modal.js
 **/form.js
+**/App.js
